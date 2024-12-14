@@ -1,0 +1,13 @@
+- !<AssetCache/92db32d7-c8af-003a-190d-696a8411f417>
+  AssetFiles:
+    84757d75-8342-46e5-b2ac-aa959c0f0b42: e1dc984e-2b05-4643-a885-6554ca565caf/92db32d7c8af003a190d696a8411f417/Data/frustum__alpha_opt_WEBP.webp
+  Assets:
+    - !<FileTexture/84757d75-8342-46e5-b2ac-aa959c0f0b42>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 92db32d7c8af003a190d696a8411f417
+  FileHash: 3bb48891842d06c2e944d47916e999ba
+  NativePackageItems:
+    []

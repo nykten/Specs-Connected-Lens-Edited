@@ -1,0 +1,29 @@
+- !<NativePackageDescriptor/434310b5-9300-4cc6-ab9f-625105fbcd12>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 3
+    patch: 0
+    build: 24111410
+    type: Unset
+  Description: ""
+  SvgIcon: ""
+  InternalVersion: 3
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 19877
+  UpdateCheckpoint: 50
+  ExportUid: 1c16fcec-3244-42b8-9b68-8fbee211b01c
+  ComponentUid: 1e0f3410-8d24-44c9-aa7d-7ffcb98af7a6
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure/00000000-0000-0000-0000-000000000000>
+    Name: "[PR]SpectaclesSyncFramework"
+    AssetId: 6Wvso9UTFoLEhciDdupYri
+    Hash: b1378f17092d02282a4960f90ccc9d0c
+    Version:
+      major: 1
+      minor: 0
+      patch: 19877
+      build: 0

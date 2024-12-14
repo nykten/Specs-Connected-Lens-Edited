@@ -1,0 +1,13 @@
+- !<AssetCache/1dec1a4c-8d36-f7f7-bccb-8070e4d53a27>
+  AssetFiles:
+    fd8a3750-b2a9-4e6e-bdd2-7180746a3682: 36dfea27-e79e-4cb0-9153-3366c104668e/1dec1a4c8d36f7f7bccb8070e4d53a27/Data/room_albedo.webp
+  Assets:
+    - !<FileTexture/fd8a3750-b2a9-4e6e-bdd2-7180746a3682>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 1dec1a4c8d36f7f7bccb8070e4d53a27
+  FileHash: a5cbced55609294b9d3195c23a84aa29
+  NativePackageItems:
+    []

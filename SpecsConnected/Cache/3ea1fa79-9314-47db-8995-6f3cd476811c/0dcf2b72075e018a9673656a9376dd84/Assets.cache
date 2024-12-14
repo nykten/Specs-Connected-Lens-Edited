@@ -1,0 +1,13 @@
+- !<AssetCache/0dcf2b72-075e-018a-9673-656a9376dd84>
+  AssetFiles:
+    d94b27ad-ee54-4ad9-afc4-ff1820602d5f: 3ea1fa79-9314-47db-8995-6f3cd476811c/0dcf2b72075e018a9673656a9376dd84/Data/girl_albedo_512.webp
+  Assets:
+    - !<FileTexture/d94b27ad-ee54-4ad9-afc4-ff1820602d5f>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 0dcf2b72075e018a9673656a9376dd84
+  FileHash: 2f9c0878cdcd4b49c3c9ff3b7c5025b9
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache/0c91417d-8f45-8981-1f27-23db6856149e>
+  AssetFiles:
+    9d48fc6d-d22f-4159-acc6-f64a7085e44c: 4783c03a-5ccc-4e90-b06a-ac32ee023f68/0c91417d8f4589811f2723db6856149e/Data/LoadBar_SimpleRef.png
+  Assets:
+    - !<FileTexture/9d48fc6d-d22f-4159-acc6-f64a7085e44c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 128
+        Height: 128
+  SourceHash: 0c91417d8f4589811f2723db6856149e
+  FileHash: 00f303c765c48eb9551e9c45142cceed
+  NativePackageItems:
+    []

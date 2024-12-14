@@ -1,0 +1,44 @@
+- !<AssetImportMetadata/319056ee-be07-493a-963c-b63c80c61cda>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 818a6745-7607-4e32-826d-5c248d967fa9
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 818a6745-7607-4e32-826d-5c248d967fa9
+  PackageType: NotAPackage
+  ImporterSettings: !<AssetImporterSettings/e1c84356-3887-4ad4-b570-05d31e5992eb>
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> b19bd173-a032-4ac6-ba67-9609b0d1edac
+  PackagePolicy: CannotBeUnpacked
+  DependentFiles:
+    []
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/b19bd173-a032-4ac6-ba67-9609b0d1edac>
+  Icon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    nonOwnerObjects: false
+    ownerObjects: false
+    syncEntityScript: false
+    targetType: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - targetType: SyncEntity
+      syncEntityScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      ownerObjects: !<reference.SceneObject[]>
+        []
+      nonOwnerObjects: !<reference.SceneObject[]>
+        []
+  ScriptTypes:
+    -
+      {}
+  SvgIcon: ""

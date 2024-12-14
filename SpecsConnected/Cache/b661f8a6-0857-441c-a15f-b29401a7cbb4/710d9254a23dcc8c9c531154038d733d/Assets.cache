@@ -1,0 +1,10 @@
+- !<AssetCache/710d9254-a23d-cc8c-9c53-1154038d733d>
+  AssetFiles:
+    99803846-71e6-4b00-b828-dcee59e625e5: b661f8a6-0857-441c-a15f-b29401a7cbb4/710d9254a23dcc8c9c531154038d733d/Data/D Major Chord by BradlBeaty Id-705410.wav
+  Assets:
+    - !<FileAudioTrack/99803846-71e6-4b00-b828-dcee59e625e5>
+      PackagePath: ""
+  SourceHash: 710d9254a23dcc8c9c531154038d733d
+  FileHash: e4efeb8e30414bd74dc34bb8a642e415
+  NativePackageItems:
+    []

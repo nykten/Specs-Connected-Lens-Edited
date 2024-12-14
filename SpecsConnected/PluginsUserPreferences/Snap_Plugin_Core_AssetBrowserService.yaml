@@ -1,0 +1,8 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 0b2a34f9-dde6-4751-bbc4-6261e6382692: "D:/FiltersD/Assets/clap.wav"
+    - 2c8d7854-3f8d-41bf-aefb-c2a4281c75e6: "D:/FiltersD/Assets/synthpad_chord_727082__markallentheproducer__synth-pad-chord.wav"
+    - 8af005b1-8053-495a-b34b-b77d88a6f655: "D:/FiltersD/Assets/bass_drum.wav"
+    - b661f8a6-0857-441c-a15f-b29401a7cbb4: "D:/FiltersD/Assets/D Major Chord by BradlBeaty Id-705410.wav"
+  options: 4

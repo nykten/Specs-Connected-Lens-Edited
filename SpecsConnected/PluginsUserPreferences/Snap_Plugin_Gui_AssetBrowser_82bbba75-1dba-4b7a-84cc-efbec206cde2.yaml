@@ -1,0 +1,1017 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 1011
+    values:
+      - Audio/D Major Chord by BradlBeaty Id-705410.wav
+      - Audio/bass_drum.wav
+      - Audio/clap.wav
+      - Audio/synthpad_chord_727082__markallentheproducer__synth-pad-chord.wav
+      - PBR 1.mat
+      - PBR 2.mat
+      - Pyramid.mesh
+      - Scene.scene
+      - SpectaclesSyncFramework/CombinedSIKConnectedLenses.prefab
+      - SpectaclesSyncFramework/ConnectedLens
+      - SpectaclesSyncFramework/ConnectedLens/Connected Lens Module.connectedLensModule
+      - SpectaclesSyncFramework/ConnectedLens/ConnectedLens.prefab
+      - SpectaclesSyncFramework/ConnectedLens/EnableOnReady.ts
+      - SpectaclesSyncFramework/ConnectedLens/Examples
+      - SpectaclesSyncFramework/ConnectedLens/Examples/SessionControllerExample.ts
+      - SpectaclesSyncFramework/ConnectedLens/Examples/SyncEntityExample.ts
+      - SpectaclesSyncFramework/ConnectedLens/ExtraPermissions.js
+      - SpectaclesSyncFramework/ConnectedLens/Mapping
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/CheckmarkAnimation
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/CheckmarkAnimation/Checkmark_KEY_1.animationLayer
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/.hidden
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/.hidden/Material.007
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/.hidden/white
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/ALL_CHAR_OPTIMIZED_v02
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/BaseLayer
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Materials
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Materials/Material.007
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Materials/lambert1
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Materials/lambert130
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Materials/lambert153
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Materials/lambert98
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Materials/lambert99
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Materials/pasted__lambert94
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Materials/pasted__lambert98
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Meshes
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Meshes/GUY_OPT
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Meshes/P1_Arrow
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Meshes/P2_Arrow
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Meshes/POINT_CLOUD
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Meshes/POINT_CLOUD_SYNC_p2
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Meshes/girl_character
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Meshes/head_GEO_GRP
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Meshes/mapping_Checkmark_KEY_1
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Meshes/mapping_GreyBar
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Meshes/mapping_YellowBar
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/ALL_CHAR_OPTIMIZED_v02.fbx/Meshes/mapping_point_cloud
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/Unlit_Girl.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/Unlit_Guy.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/girl_albedo_512.webp
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3DCharacters/guy_albedo_512.webp
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/frustum 1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/frustum.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/frustum_outline 1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/frustum_outline.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx/.hidden
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx/.hidden/Material
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx/.hidden/white
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx/Materials
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx/Materials/Material
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx/Materials/phong1
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx/Meshes
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx/Meshes/glasses_frames
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx/Meshes/screen
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx/Meshes/screen.001
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx/Meshes/screen.002
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/3D_Glasses_OPT/glasses_UI_005.fbx/glasses_UI_005
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/.hidden
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/.hidden/GlassesInner.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/.hidden/Outline.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/.hidden/frustum 1.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/.hidden/frustum.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/.hidden/frustum_outline.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/Frustum
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/Frustum/frustum_ALBEDO_WEBP.webp
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/Frustum/frustum__EMISSIVE_WEBP.webp
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/Frustum/frustum__alpha_opt_WEBP.webp
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/Glasses
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/Glasses/GlassesInnerGhost 1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/Glasses/GlassesInnerGhost.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/Glasses/Outline_InsideRoomHead 1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/Glasses/Outline_InsideRoomHead.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/Glasses/screen_gradient 1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/Glasses/screen_gradient.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/GLASSES_AND_FRUSTRUM/Glasses and Frustum/Glasses/screen_gradient_UI.png
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/Room
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/Room/unlit.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/Glasses and Frustum
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/Glasses and Frustum/.hidden
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/Glasses and Frustum/.hidden/GlassesInner.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/Glasses and Frustum/Glasses
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/Glasses and Frustum/Glasses/GlassesInnerON.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/.hidden
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/.hidden/blinn3
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/.hidden/white
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/BaseLayer
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/MAPPING_FBX_EXPORT_v01
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/blinn3
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/blinn4
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/body_MAT5
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/eye_MAT4
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/eyelash_MAT4
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/hair_MAT3
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/headBrow_MAT3
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/head_MAT3
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/lambert1
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/lambert102
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/lambert98
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/lambert99
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/outfit_bottom_MAT3
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/outfit_footwear_MAT3
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/outfit_top_MAT3
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Materials/surfaceShader9
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/C_brow_GEO
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/C_hair_GEO
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/C_headMouth_GEO
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/C_head_GEO
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/Checkmark_KEY_1
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/GreyBar
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/L_eye_GEO
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/R_eye_GEO
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/YellowBar
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/arms_end_right
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/arms_inner_01
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/arms_inner_02
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/body_GEO
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/frame
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/front_gap_glass
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/front_gap_glass.002
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/front_gap_glass.003
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/front_gap_glass.004
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/outfit_bottom_GEO
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/outfit_footwear_GEO
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/outfit_top_GEO
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pCube1
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane1
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane10
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane11
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane12
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane13
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane14
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane15
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane16
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane17
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane18
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane19
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane2
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane20
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane21
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane22
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane23
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane3
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane4
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane5
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane6
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane7
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane8
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/pPlane9
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/screen1
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Meshes/universal_head_eyelash_GEO
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Textures
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Textures/girl_body
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Textures/girl_brow
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Textures/girl_eyelash
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Textures/girl_eyes
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Textures/girl_face
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Textures/girl_hair
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Textures/girl_pants
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Textures/girl_shirt
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Textures/girl_shoes
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/MAPPING_FBX_EXPORT_v01.fbx/Textures/glow
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/Occluder 1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/TEXTURES
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/CheckMarkUI
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/CheckMarkUI/.hidden
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/CheckMarkUI/.hidden/Checkmark.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/CheckMarkUI/CheckMark
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/CheckMarkUI/CheckMark/Checkmark 1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/CheckMarkUI/CheckMark/Checkmark.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/LoadingBarUI
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/LoadingBarUI/.hidden
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/LoadingBarUI/.hidden/LoadBar.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/LoadingBarUI/.hidden/LoadBar_Grey.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/LoadingBarUI/LoadBar
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/LoadingBarUI/LoadBar/LoadBar 1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/LoadingBarUI/LoadBar/LoadBar.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/LoadingBarUI/LoadBar/LoadBar_Grey 1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/LoadingBarUI/LoadBar/LoadBar_Grey.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/LoadingBarUI/LoadBar/LoadBar_SimpleRef.png
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/LoadingBarUI/LoadBar/grey_bar_reflect.png
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/Unlit_ActivePoints.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/Unlit_NonActivePoints.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/UI/unlit_point.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/head_geo_mtl 1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/head_geo_sh 1.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/MappingFlow/tutorialMappingP1Assets5/occluder.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/Scene 1.animationMixerLayer
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/SceneHierarchy.prefab
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/unlit.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/ALL_CHAR_OPTIMIZED_v02/yellowarrow_.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/SceneHierarchy.prefab
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/.hidden
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/.hidden/CapsuleButton.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/DesignLibrary
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/DesignLibrary/Scripts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/DesignLibrary/Scripts/PinchButtonSystemUI.js
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/Keep_looking_button.png
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/Meshes
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/Meshes/CapsuleMesh.mesh
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/System_UI_production
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/System_UI_production/3Dresources
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/System_UI_production/3Dresources/Materials
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/System_UI_production/3Dresources/Materials/SystemSettings
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/System_UI_production/3Dresources/Materials/SystemSettings/keep_looking_button.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/System_UI_production/Textures
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/CapsuleButton/TutorialMirroring/System_UI_production/Textures/idle.jpg
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/HelpPrompt
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/HelpPrompt/Arrow Material.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/HelpPrompt/Arrow Shader.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/HelpPrompt/Arrow.mesh
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/HelpPrompt/SceneHierarchy.prefab
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/Image 7.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/Image.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/UnsuccessNotification 1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/UnsuccessNotification.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/blurreddarkBG (1).png
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/flat 5.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/flat.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/notification
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/notification/Hint
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/notification/Hint/.hidden
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/notification/Hint/.hidden/Notification_tile.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/notification/Hint/Meshes
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/notification/Hint/Meshes/Notification_tile.mesh
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/notification/Hint/Notification
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/notification/Hint/Notification/3D Resourses
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/notification/Hint/Notification/3D Resourses/Textures
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/notification/Hint/Notification/3D Resourses/Textures/Notification_tile_outline_mask.jpg
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/occluder
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/occluder/MappingFlow
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/occluder/MappingFlow/tutorialMappingP1Assets5
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/occluder/MappingFlow/tutorialMappingP1Assets5/Occluder 1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/occluder/MappingFlow/tutorialMappingP1Assets5/WindowOccluderBox 1.fbx
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/occluder/MappingFlow/tutorialMappingP1Assets5/WindowOccluderBox 1.fbx/Meshes
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/occluder/MappingFlow/tutorialMappingP1Assets5/WindowOccluderBox 1.fbx/Meshes/Cube
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/occluder/MappingFlow/tutorialMappingP1Assets5/WindowOccluderBox 1.fbx/WindowOccluderBox 1
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/occluder/MappingFlow/tutorialMappingP1Assets5/occluder.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/occluder/SceneHierarchy.prefab
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/Unlit_Room.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/room_albedo.webp
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/room_optimised.fbx
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/room_optimised.fbx/.hidden
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/room_optimised.fbx/.hidden/lambert36
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/room_optimised.fbx/.hidden/white
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/room_optimised.fbx/BaseLayer
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/room_optimised.fbx/Materials
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/room_optimised.fbx/Materials/lambert36
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/room_optimised.fbx/Meshes
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/room_optimised.fbx/Meshes/room_all
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/room_optimised.fbx/room_optimised
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/MappingFlow/Room/unlit.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/room/SceneHierarchy.prefab
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/spinner_loader.t3d
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/spinner_loader.t3d/spinner_loader
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/spinner_loader.t3d/spinner_loader_0.png
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/EntryPointComponents
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/EntryPointComponents/EntryPointMain.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/BufferState
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/BufferState/BufferState.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/JoiningState
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/JoiningState/JoiningState.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/JoiningState/JoiningStateInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/MappingCanceledState
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/MappingCanceledState/MappingCanceledState.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/MappingState
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/MappingState/MappingState.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/MappingState/MappingStateInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/MappingSuccessfulState
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/MappingSuccessfulState/MappingSuccessfulState.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/MappingSuccessfulState/MappingSuccessfulStateInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/MappingUnsuccessfulState
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/MappingUnsuccessfulState/MappingUnsuccessfulState.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/MappingUnsuccessfulState/MappingUnsuccessfulStateInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/MappingUnsuccessfulState/MappingUnsuccessfulTypeEnum.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/TeachingJoinedUserState
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/TeachingJoinedUserState/TeachingJoinedUserState.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/TeachingJoinedUserState/TeachingJoinedUserStateInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/WaitingForMappingState
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/WaitingForMappingState/WaitingForMappingState.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/MappingFlowStates/WaitingForMappingState/WaitingForMappingStateInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Texts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Texts/ITitledText.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Texts/MessageTextsEnum.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Texts/TextValues.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/ProgressBar
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/ProgressBar/ProgressBar.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/ProgressBar/ProgressBarInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/ProgressBar/ProgressBarParametersInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/TextMappingHint
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/TextMappingHint/TextMappingHint.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/TextMappingHint/TextMappingHintInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/TextMappingHint/TextMappingHintParametersInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/Tutorial
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/Tutorial/Tutorial.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/Tutorial/TutorialInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/Tutorial/TutorialParametersInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingFlow/Tutorial/TutorialTypeEnum.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingUnsuccessful
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingUnsuccessful/MappingUnsuccessfulNotification.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/MappingUnsuccessful/MappingUnsuccessfulNotificationInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/ObjectLocator
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/ObjectLocator/ObjectLocator.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/ObjectLocator/ObjectLocatorInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/ObjectLocator/StartPointAlphaAnimation.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/ObjectLocator/animations
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/ObjectLocator/animations/TweenFactory.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/ObjectLocator/animations/Update.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/ObjectLocator/animations/tween.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/UI/ObjectLocator/animations/tween.js
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Utils
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Utils/HeadLockBehavior
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Utils/HeadLockBehavior/HeadLockBehavior.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Utils/HeadLockBehavior/HeadLockBehaviorInput.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Utils/HeadLockBehavior/IHeadLockBehavior.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Utils/HeadLockBehavior/SecondOrderDynamics.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Utils/JoiningController.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Utils/ProjectContainer.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Utils/SharedFunctions.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Utils/event
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Utils/event/Event.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/src/Utils/event/Observable.ts
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/success_generic_2eeq_marimba_-1dB_4824.wav
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/SceneHierarchy.prefab
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1/notification
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1/notification/Hint
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1/notification/Hint/.hidden
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1/notification/Hint/.hidden/Notification_tile.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1/notification/Hint/Meshes
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1/notification/Hint/Meshes/Notification_tile.mesh
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1/notification/Hint/Notification
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1/notification/Hint/Notification/3D Resourses
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1/notification/Hint/Notification/3D Resourses/Materials
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1/notification/Hint/Notification/3D Resourses/Materials/Notification_tile_P1.mat
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1/notification/Hint/Notification/3D Resourses/Textures
+      - SpectaclesSyncFramework/ConnectedLens/Mapping/tutorialMappingP1Assets5/Tutorial_01/tutorialMappingP1/notification/Hint/Notification/3D Resourses/Textures/Notification_tile_outline_mask.jpg
+      - SpectaclesSyncFramework/ConnectedLens/PositionInitializer.ts
+      - SpectaclesSyncFramework/ConnectedLens/StartMenu.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Components/Instantiator.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Components/SyncHelpers/SetEnabledIfOwner.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Components/SyncHelpers/SetEnabledOnReady.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Components/SyncHelpers/SyncEntityDebug.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Components/SyncMaterials.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Components/SyncRealtimeStore.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Components/SyncTransform.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Core/MockMultiplayerSession.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Core/MockMultiplayerSessionConfig.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Core/NetworkIdTools.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Core/NetworkTracking.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Core/NetworkTrackingView.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Core/NetworkUtils.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Core/SessionController.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Core/SyncEntity.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Core/SyncSnapshot.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Resources
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Resources/ColocatedResources
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Resources/ColocatedResources/Colocated Landmarks 3D Mesh.colocatedLandmarks3DMesh
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Resources/ColocatedResources/Landmarks3D.mat
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Resources/ColocatedResources/Landmarks3D.ss_graph
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/ColocatedBuildStatus.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/EntityEventWrapper.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/EventWrapper.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/InstantiationOptions.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/InstantiationOptionsObj.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/Instantiator.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/KeyedEventWrapper.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/NetworkIdTools.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/NetworkMessage.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/NetworkMessageWrapper.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/NetworkRootInfo.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/NetworkUtils.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/SessionController.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/State.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/StoreEventWrapper.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/StoreInfo.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/SyncEntity.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/TypescriptDefinitions/SyncRealtimeStore.d.ts
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Utils
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Utils/EventUtils.js
+      - SpectaclesSyncFramework/ConnectedLens/SyncFramework/Utils/TextLogger.js
+      - SpectaclesSyncFramework/ConnectedLens/Utils
+      - SpectaclesSyncFramework/ConnectedLens/Utils/Fadeable.ts
+      - SpectaclesSyncFramework/ConnectedLens/Utils/Observable.ts
+      - SpectaclesSyncFramework/ConnectedLens/Utils/SyncFrameworkLogger.ts
+      - SpectaclesSyncFramework/ConnectedLens/Utils/Timers.ts
+      - SpectaclesSyncFramework/ConnectedLens/Utils/UUID.ts
+      - SpectaclesSyncFramework/ConnectedLens/Utils/Unsubscribe.ts
+      - SpectaclesSyncFramework/ConnectedLens/VersionNumber.ts
+      - SpectaclesSyncFramework/DeviceCameraTexture.deviceCameraTexture
+      - SpectaclesSyncFramework/Render Target.renderTarget
+      - SpectaclesSyncFramework/RenderTargetTracking.renderTarget
+      - SpectaclesSyncFramework/SpectaclesInteractionKit
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Audio
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Audio/HoverAudioTrack.wav
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Audio/TriggerEndAudioTrack.wav
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Audio/TriggerStartAudioTrack.wav
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/PaintedGlow_Left.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/PaintedGlow_Right.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/RadialGradientOcclusion.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/TipGlowMaterial.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/BitmojiMaterial.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/ContainerImageMaterial.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/LogoMaterial.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/NormalBasedTargetOutline.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PinchButtonDarkInactive.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PinchButtonDarkRadial.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOffIcon.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOnDefault.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOnIcon.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOnSelect.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_close 1.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_close 10.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_close 2.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_close 3.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_close 4.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_close 5.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_close 6.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_close 7.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_close 8.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_close 9.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_close.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_glow 1.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_glow 2.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/3D resources/Materials/SystemSettings/SysSet_round_button_glow.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/RoundButtonHover.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/RoundButtonPinched.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/RoundButton_Idle.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/SWIS
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/SWIS/SWIS
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/SWIS/SWIS/3D resources
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/SWIS/SWIS/3D resources/Materials
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/SWIS/SWIS/3D resources/Materials/LensExplorer
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/SWIS/SWIS/3D resources/Materials/LensExplorer/LensExp_scroll 1.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/SWIS/SWIS/3D resources/Materials/LensExplorer/LensExp_scroll 2.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/SWIS/SWIS/3D resources/Materials/LensExplorer/LensExp_scroll.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/SWIS/SWIS/3D resources/Materials/LensExplorer/LensExp_scroll_bg.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/PlatformUI/Slider_Platform.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/ScaleBasedTargetOutline.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/ScrollBarButton.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/ScrollBarSlider.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/SimplePBRMaterial.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/SliderMat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/SliderMat/PinchButtonDarkDefault.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/SliderMat/PinchButtonOnSelect.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/SliderMat/SliderMat.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/SliderMat/TargetOutlineMaterial.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/SpritePreset.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/TargetOutlineMaterial.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Materials/Text3DDefault.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/BoxMesh.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/ButtonCapsuleMesh.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/ButtonSphereMesh.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/Check.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/LeftHandMesh.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/PlaneMesh.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/PlatformUI
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/PlatformUI/PlatformCapsuleButton.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/PlatformUI/PlatformSphereButton.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/PlatformUI/RoundButton.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/PlatformUI/RoundButtonGlow.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/PlatformUI/ScrollBarKnobMesh.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/PlatformUI/ScrollBarMesh.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/PlatformUI/Slider.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/RightHandMesh.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/ScrollBarSlider.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/SliderSphereKnob.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/SliderTrack.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/SnapGhost_Mesh.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/SphereMesh.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Meshes/Uncheck.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/PaintedGlow_Left.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/PaintedGlow_Right.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/RadialGradientOcclusion.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/TipGlowMaterial.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/NormalBasedTargetOutline.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PinchButton-ActiveOrInActive.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PinchDarkRadial.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ButtonHover.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ButtonIdle.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ButtonPinched.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/CapsuleButtonHover.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/CapsuleButtonIdle.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/CapsuleButtonPinched.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/RoundButtonGlowHover.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/RoundButtonGlowIdle.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/RoundButtonGlowPinched.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/RoundButtonHover.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/RoundButtonPinched.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/RoundButton_Idle.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ScrollBackground.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ScrollButtonHover.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ScrollButtonIdle.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ScrollButtonPinched.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/Slider_Platform.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/StateButtonToggledHover.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/PlatformUI/StateButtonToggledPinched.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/ScaleBasedTargetOutline.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/ScrollBarSlider.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/SliderShaders
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/SliderShaders/PinchButton-Default.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/SliderShaders/Slider.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/SpritePreset.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/TargetOutline.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/Text3DDefault.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/ToggleOff.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/ToggleOn.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/ToggleOnSelect.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Shaders/simple_pbr.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/2DBitmojiAvatar.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/Base.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/Glow.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/handMeshPinchTexture.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/handMeshTapTexture.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/occlusionGradient.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/MaterialParams.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/Normal.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/ArrowDown.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/ArrowUp.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/Close.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/FollowIconBlack.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/FollowIconWhite.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/Image.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/Mask_simple_reflection_ellipse.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/SimpleIdle.jpg
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/SimpleIdle_05.jpg
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/SimpleRefl_02.jpg
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/SimpleRefl_05.jpg
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/SimpleRefl_06.jpg
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/PlatformUI/UI_glow.jpg
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/Rectangle-Active.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/Rectangle-Inactive.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/Rectangle.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/SIKContainerExampleImage.jpg
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/SIKLogo.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Assets/Textures/ScrollBarRectangle.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Helpers
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Helpers/ButtonFeedback.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Helpers/CapsuleMeshCustomizer.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Helpers/InteractableAudioFeedback.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Helpers/InteractableColorFeedback.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Helpers/InteractableOutlineFeedback.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Helpers/InteractableSquishFeedback.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Helpers/ScreenTransformAdapter.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Helpers/ScrollBarFeedback.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Helpers/SliderFeedback.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Helpers/ToggleFeedback.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/Billboard
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/Billboard/Billboard.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/Billboard/BillboardController.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/Billboard/BillboardRotationCalculator.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/HandVisual
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/HandVisual/GlowEffectView.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/HandVisual/GlowEffectViewModel.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/HandVisual/HandVisual.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/HandVisual/RadialOcclusionView.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/Headlock
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/Headlock/Headlock.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/Headlock/HeadlockController.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/Headlock/HeadlockRotationCalculator.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/Headlock/HeadlockTranslationCalculator.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/Interactable
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/Interactable/Interactable.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractableManipulation
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractableManipulation/InteractableManipulation.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CircleVisual.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/Cursor.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CursorController.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CursorMat.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CursorViewModel.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/InteractorCursor.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/ManipulateLineMat.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/ManipulateLineMaterial.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/Plane.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/disabled.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/scale-tl.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/scale-tr.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/translate.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineMat.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineMaterial.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineRenderer.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineVisual.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/ContainerFrame.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/FrameMaterial.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/FrameMaterial.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Ghost Material.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Ghost Material.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Image.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Label.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/container-button.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/container-button.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/flat.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame_High.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame_Mid.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/SphereButton.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/SysSettings_settings_button.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/pinch-depth-button.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs/FramePrefab.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs/container-button.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/README.md
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/close-icon-1.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/close-icon.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/container-button-matcap.jpg
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-black.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-white-shadow.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-white.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/reflection-map-1-cube.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/reflection-map-1.jpg
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/soft-reflection.jpg
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/container-ui.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/modules
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/CursorHandler.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/ForceContainerParent.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/FrameInputHandler.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/HoverBehavior.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/LabeledPinchButton.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SimpleLODRenderMeshVisual
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SimpleLODRenderMeshVisual/SimpleLODRenderMeshVisual.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SmoothFollow.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SnappableBehavior.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/PinchButton
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/PinchButton/PinchButton.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollBar
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollBar/ScrollBar.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollView
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollView/GridContentCreator.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollView/ScrollArea.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollView/ScrollProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollView/ScrollView.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/BoundariesProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/BufferedBoundariesProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/SceneObjectBoundariesProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/ScreenTransformBoundariesProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/VisualBoundariesProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/Slider
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/Slider/Slider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ToggleButton
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Components/UI/ToggleButton/ToggleButton.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/ConfigurationValidator
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/ConfigurationValidator/ConfigurationValidator.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/HandInteractor
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/HandInteractor/HandInteractor.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/InteractionManager
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/InteractionManager/EventDispatcher.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/InteractionManager/InteractionManager.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/BaseInteractor.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/ColliderTargetProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/DirectTargetProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/DragProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/HandRayProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/IndirectTargetProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/Interactor.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/InteractorEvent.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/MobileRayProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/MouseTargetProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/PokeTargetProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/RayProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/TouchRayProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/AxisAngle.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/ContinousIrInteractionTransition.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/IrInteractionTransition.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/PinchJumpSuppressor.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastAnchorHead.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastAnchorVariableShoulder.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastBase.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastLegacySingleCamera.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastProxy.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RgbIrTransitionJumpSuppressor.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/SwitchIrInteractionTransition.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/TimeDataContainer.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/TimeScalarContainer.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/TimedVec2Container.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/TimedVec3Container.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/LogLevelConfiguration
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/LogLevelConfiguration/LogLevelConfiguration.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/LogLevelConfiguration/SIKLogLevelConfiguration.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/MobileInteractor
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/MobileInteractor/MobileInteractor.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/MouseInteractor
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Core/MouseInteractor/MouseInteractor.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Decorators
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Decorators/Singleton.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/ModernBodyTube_icon.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/ModernFins_icon.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/ModernNoseCone_icon.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/SleekBodyTube_icon.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/SleekFins_icon.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/SleekNoseCone_icon.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/SpaceAgeBodyTube_icon.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/SpaceAgeFins_icon.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/SpaceAgeNoseCone_icon.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Meteor.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Planet.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Planet_rings.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Platform.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_fire.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_glass.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_glass_satellite.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_grey.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_metal.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_metal_red.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_plastic_01.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_plastic_02.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_plastic_03.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_plastic_03_logo.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_white.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_white_logo.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Satellite_blue.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/.hidden
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/.hidden/Lightbake.001
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/.hidden/white
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Bases
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Materials
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Materials/Lightbake.001
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Meshes
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Meshes/Circular
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Meshes/Cubic_01
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Meshes/Hexagon_01
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Meteor
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Planet
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Planet1
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_bottom
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_bottom1
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_bottom2
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_bottom3
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_middle
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_middle1
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_middle2
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_top
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_top1
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_02_bottom
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_02_middle
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_02_top
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom1
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom2
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom3
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom4
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_middle
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_top
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_top1
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_top2
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Satellite
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Satellite1
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Satellite2
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Satellite3
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/SIK_Rockets
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Modern Body Tube.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Modern Fins.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Modern Nose Cone.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Sleek Body Tube.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Sleek Fins.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Sleek Nose Cone.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Space Age Body Tube.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Space Age Fins.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Space Age Nose Cone.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Body Tube Category.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Fins Category.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Modern Body Tube.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Modern Fins.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Modern Nose Cone.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Nose Cone Category.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Sleek Body Tube.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Sleek Fins.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Sleek Nose Cone.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Space Age Body Tube.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Space Age Fins.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Space Age Nose Cone.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Scripts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Scripts/ExhaustControls.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Scripts/RocketConfigurator.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Scripts/RocketGridContentCreator.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Scripts/RocketLaunchControl.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Scripts/RocketScrollViewItem.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders/Glass.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders/Meteor.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders/Planet.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders/Planet_rings.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders/Platform.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders/Rocket.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/A-icon.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/B-icon.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/C-icon.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/SIK_Meteor_bc.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/SIK_Platforms_AO.jpg
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/SIK_Rockets_AO.jpg
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/SIK_Snap_logo.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/SIK_Space_logo_TEMP.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/body-tube_rocket-A.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/body-tube_rocket-B.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/body-tube_rocket-C.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/fins_rocket-A.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/fins_rocket-B.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/fins_rocket-C.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/nose-cone_rocket-A.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/nose-cone_rocket-B.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/nose-cone_rocket-C.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Landing
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Landing/Bones_clouds_ANIM_mat_landing.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Landing/Bones_clouds_material_landing_.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Landing/CloudsLanding.animationAsset
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Landing/line1.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Start
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Start/Bones_clouds_ANIM_mat_takeoff.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Start/Bones_clouds_material_start_.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Start/CloudsStart.animationAsset
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Start/line1.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Custom Mesh Emitter
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Custom Mesh Emitter/Custom Mesh Emitter.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Custom Mesh Emitter/Rocket_clouds_emit.vfxgraph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Custom Mesh Emitter/cl_goup.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/Fire.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/Fire_ANIM_mat.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/Glow_ANIM_mat.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/Glow_MAt.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/blendshapes1.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/dots.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/engine_exhaust.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/glow_plane.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Radial Heat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Radial Heat/Noise00.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Radial Heat/Plane.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Radial Heat/RadialHeat_ANIM_mat.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Radial Heat/Radial_heat.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Animations
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Animations/Base Layer Rocket 1.animationAsset
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Animations/Base Layer Rocket 2.animationAsset
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Animations/Base Layer Rocket 3.animationAsset
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Sparks
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Sparks/Rocket_sparks.mesh
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Sparks/Top_Rocket_Trail.mat
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Sparks/Top_Rocket_Trail.ss_graph
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Sparks/stripe_noise 2.png
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Examples/SIK Examples.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Prefabs
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Prefabs/ScrollViewListItem.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Prefabs/SpectaclesInteractionKit.prefab
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/CameraProvider
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/CameraProvider/ARCameraFinderProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/CameraProvider/BaseCameraFinderProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/CameraProvider/BaseWorldCameraProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/CameraProvider/CameraProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/CameraProvider/WorldCameraFinderProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/CursorControllerProvider
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/CursorControllerProvider/CursorControllerProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/BaseHand.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/DefaultHandTrackingAssetProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/GestureModuleProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/MotionControllerProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetection
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetection/PalmTapDetector.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetection/PalmTapDetectorStateMachine.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetectionEvent.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapEvent.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies/HciPinchDetectionStrategy.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies/HeuristicPinchDetectionStrategy.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies/PinchDetectionStrategy.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/PinchDetector.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/PinchDetectorStateMachine.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchEventType.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/HandInputData.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/HandTrackingAssetProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/HandType.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/HandVisuals.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/Joints.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/Keypoint.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/LandmarkNames.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/LeftHandAsset.handTracking3D
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/RightHandAsset.handTracking3D
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/HandInputData/TrackedHand.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/InteractionConfigurationProvider
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/InteractionConfigurationProvider/InteractionConfigurationProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/InteractionConfigurationProvider/LogLevelProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/InteractionConfigurationProvider/SIKLogLevelProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/MobileInputData
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/MobileInputData/MobileInputData.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/TargetProvider
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/TargetProvider/TargetProvider.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Providers/TargetProvider/TargetingData.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/SIK.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/BistableThreshold.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/Event.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/Filter.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/InputChecker.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/InspectorCallbacks.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/LensConfig.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/LogLevel.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/MovingAverageFilter.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/NativeLogger.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/OneEuroFilter.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/ReplayEvent.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/SafeReference.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/SampleOps.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/SceneObjectUtils.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/SeededRandomNumberGenerator.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/Spatial.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/State.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/StateMachine.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/UpdateDispatcher.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/aabb.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/algorithms.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/animate.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/color.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/debounce.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/lazyProperty.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/logger.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/mathUtils.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/notEmpty.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/springAnimate.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/validate.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/views
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/views/LineRenderer
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/views/LineRenderer/LineMeshUtils.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/views/LineRenderer/LineRenderer.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/views/MeshView.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/Utils/views/View.ts
+      - SpectaclesSyncFramework/SpectaclesInteractionKit/package.native
+      - SpectaclesSyncFramework/package.native
+      - Sphere.mesh
+  options: 4

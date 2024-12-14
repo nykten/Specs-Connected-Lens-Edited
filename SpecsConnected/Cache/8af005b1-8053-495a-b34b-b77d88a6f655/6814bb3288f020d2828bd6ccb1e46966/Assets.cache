@@ -1,0 +1,10 @@
+- !<AssetCache/6814bb32-88f0-20d2-828b-d6ccb1e46966>
+  AssetFiles:
+    29ed5f39-60f1-41ba-be7c-103e8c631322: 8af005b1-8053-495a-b34b-b77d88a6f655/6814bb3288f020d2828bd6ccb1e46966/Data/bass_drum.wav
+  Assets:
+    - !<FileAudioTrack/29ed5f39-60f1-41ba-be7c-103e8c631322>
+      PackagePath: ""
+  SourceHash: 6814bb3288f020d2828bd6ccb1e46966
+  FileHash: 6f0bf862d5f4ff2fbcb5ae7b957cfb14
+  NativePackageItems:
+    []

@@ -1,0 +1,48 @@
+- !<AssetImportMetadata/efb7fc7b-48f2-41d0-89bc-186677e4f220>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 1cf4beb4-5383-40df-8a1a-bf5cbf3aaf8d
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 1cf4beb4-5383-40df-8a1a-bf5cbf3aaf8d
+  PackageType: NotAPackage
+  ImporterSettings: !<AssetImporterSettings/1d397aab-9eea-409f-86e3-0bbf5fd41380>
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 550f77a0-1b48-4069-81f1-a7c1945bd637
+  PackagePolicy: CannotBeUnpacked
+  DependentFiles:
+    []
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/550f77a0-1b48-4069-81f1-a7c1945bd637>
+  Icon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    networkIdText: false
+    ownerDisplayNameText: false
+    ownerIdText: false
+    ownershipButton: false
+    storagePropertyText: false
+    syncEntityScript: false
+    targetType: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - targetType: SyncEntity
+      syncEntityScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      networkIdText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      ownerDisplayNameText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      ownershipButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      ownerIdText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      storagePropertyText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  SvgIcon: ""

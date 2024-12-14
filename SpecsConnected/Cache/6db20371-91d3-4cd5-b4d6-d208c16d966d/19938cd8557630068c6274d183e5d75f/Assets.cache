@@ -1,0 +1,13 @@
+- !<AssetCache/19938cd8-5576-3006-8c62-74d183e5d75f>
+  AssetFiles:
+    0ecce79e-50af-4883-8aa9-9ef5f594fe86: 6db20371-91d3-4cd5-b4d6-d208c16d966d/19938cd8557630068c6274d183e5d75f/Data/grey_bar_reflect.png
+  Assets:
+    - !<FileTexture/0ecce79e-50af-4883-8aa9-9ef5f594fe86>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 128
+        Height: 128
+  SourceHash: 19938cd8557630068c6274d183e5d75f
+  FileHash: f20a3336597011312cff38c6686d6c11
+  NativePackageItems:
+    []

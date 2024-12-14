@@ -1,0 +1,10 @@
+- !<AssetCache/fb8c73ac-15ba-305d-034f-8064497148e2>
+  AssetFiles:
+    447880bf-1456-4a89-8bd1-cd9e2de8ff64: 2c8d7854-3f8d-41bf-aefb-c2a4281c75e6/fb8c73ac15ba305d034f8064497148e2/Data/synthpad_chord_727082__markallentheproducer__synth-pad-chord.wav
+  Assets:
+    - !<FileAudioTrack/447880bf-1456-4a89-8bd1-cd9e2de8ff64>
+      PackagePath: ""
+  SourceHash: fb8c73ac15ba305d034f8064497148e2
+  FileHash: 9d468c9e05f315d8a40afee89ad80f75
+  NativePackageItems:
+    []

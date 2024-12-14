@@ -1,0 +1,10 @@
+- !<AssetCache/88b7b703-250a-6521-d802-6a0a803ef43f>
+  AssetFiles:
+    876e1390-2f3c-49e8-bf46-c1825417bf64: 0b2a34f9-dde6-4751-bbc4-6261e6382692/88b7b703250a6521d8026a0a803ef43f/Data/clap.wav
+  Assets:
+    - !<FileAudioTrack/876e1390-2f3c-49e8-bf46-c1825417bf64>
+      PackagePath: ""
+  SourceHash: 88b7b703250a6521d8026a0a803ef43f
+  FileHash: d9881fe4fd97a75492db521ec6b56bdd
+  NativePackageItems:
+    []

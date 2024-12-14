@@ -1,0 +1,17 @@
+- !<AssetCache/7b62bcd6-c86f-8ed8-359a-c94e0618771d>
+  AssetFiles:
+    bb83eba5-a59a-4a2f-a952-1bfe68113899: bc5c45f3-5358-418e-9638-b9f411125f0e/7b62bcd6c86f8ed8359ac94e0618771d/Data/Notification_tile.mesh
+  Assets:
+    - !<FileMesh/bb83eba5-a59a-4a2f-a952-1bfe68113899>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 728
+        Vertices: 541
+        Blendshapes:
+          - X
+          - Y
+        Joints: 0
+  SourceHash: 7b62bcd6c86f8ed8359ac94e0618771d
+  FileHash: 9b3e67a0c6330ec440f9612fb9819eba
+  NativePackageItems:
+    []

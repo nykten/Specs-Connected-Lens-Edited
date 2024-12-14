@@ -1,0 +1,59 @@
+- !<AssetImportMetadata/f2195bc3-5e89-4511-8d97-6cbef98ddbed>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 94679ef5-455b-4887-9b04-f02e10aa514a
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 94679ef5-455b-4887-9b04-f02e10aa514a
+  PackageType: NotAPackage
+  ImporterSettings: !<AssetImporterSettings/02066839-f916-46a3-90fc-efe50d6bc7a7>
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> dc51100e-f9b2-4d1b-88bd-b93055134a9b
+  PackagePolicy: CannotBeUnpacked
+  DependentFiles:
+    []
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/dc51100e-f9b2-4d1b-88bd-b93055134a9b>
+  Icon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    connectedLensModule: false
+    debugLogging: false
+    forceOffline: false
+    isColocated: false
+    landmarksVisual3d: false
+    locatedAtComponent: false
+    locationCloudStorageModule: false
+    skipUiInStudio: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - connectedLensModule: !<reference.ConnectedLensModule> 00000000-0000-0000-0000-000000000000
+      useSessionSelector: false
+      isColocated: false
+      colocatedTrackingComponent: !<reference.ColocatedTrackingComponent> 00000000-0000-0000-0000-000000000000
+      deviceTrackingComponent: !<reference.DeviceTracking> 00000000-0000-0000-0000-000000000000
+      useColocatedMappingUI: false
+      colocatedStatusText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      landmarksVisual2d: !<reference.MaterialMeshVisual> 00000000-0000-0000-0000-000000000000
+      landmarksVisual3d: !<reference.MaterialMeshVisual> 00000000-0000-0000-0000-000000000000
+      requireInvite: false
+      debugLogging: false
+      useDriftCorrection: false
+      locatedAtComponent: !<reference.LocatedAtComponent> 00000000-0000-0000-0000-000000000000
+      isCustomLandmark: false
+      customLandmarkId: false
+      locationCloudStorageModule: !<reference.LocationCloudStorageModule> 00000000-0000-0000-0000-000000000000
+      forceOffline: false
+  ScriptTypes:
+    -
+      {}
+  SvgIcon: ""

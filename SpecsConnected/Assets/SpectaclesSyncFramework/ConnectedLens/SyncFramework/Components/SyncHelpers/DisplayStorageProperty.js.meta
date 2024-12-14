@@ -1,0 +1,46 @@
+- !<AssetImportMetadata/8e721dc5-470d-4f79-bd03-8aebb029295b>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 6f630bf6-9c0f-4bd6-a1cc-7d097e07bb8f
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 6f630bf6-9c0f-4bd6-a1cc-7d097e07bb8f
+  PackageType: NotAPackage
+  ImporterSettings: !<AssetImporterSettings/f2e128b5-bc9e-4dfc-a745-7bb2ba0bebda>
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 08a61e33-b5d6-404f-a39f-81621a19e046
+  PackagePolicy: CannotBeUnpacked
+  DependentFiles:
+    []
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/08a61e33-b5d6-404f-a39f-81621a19e046>
+  Icon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    altText: false
+    formatString: false
+    propertyKey: false
+    syncEntityScript: false
+    text: false
+    useFormat: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - syncEntityScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      propertyKey: ""
+      text: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      useFormat: false
+      formatString: ""
+      altText: ""
+  ScriptTypes:
+    -
+      {}
+  SvgIcon: ""

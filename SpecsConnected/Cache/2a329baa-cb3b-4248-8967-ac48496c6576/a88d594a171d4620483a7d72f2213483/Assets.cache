@@ -1,0 +1,13 @@
+- !<AssetCache/a88d594a-171d-4620-483a-7d72f2213483>
+  AssetFiles:
+    d838fe78-9926-4e2c-9d26-cec28dbbad95: 2a329baa-cb3b-4248-8967-ac48496c6576/a88d594a171d4620483a7d72f2213483/Data/idle.jpg
+  Assets:
+    - !<FileTexture/d838fe78-9926-4e2c-9d26-cec28dbbad95>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: a88d594a171d4620483a7d72f2213483
+  FileHash: 8c40c070ea089663557982c08e65d9b6
+  NativePackageItems:
+    []
